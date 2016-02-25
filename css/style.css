@@ -1,0 +1,37 @@
+@font-face {
+	font-family: ubuntu-r;
+    src: url(/fonts/Ubuntu-R.ttf);
+}
+h2, h3, h4{
+	font-weight: bold;
+}
+h2, h3{
+	letter-spacing: 2px;	
+}
+
+main{
+	margin: 1%;
+}
+#author, #position{
+	font-family: ubuntu-r;
+}
+#author, h2{
+	font-size: 6em;
+}
+#position{
+	font-size: 1.5em;
+}
+.resumeContent{
+	padding: 10px 0 10px 0px; 
+}
+.sociallinks{
+	
+}
+#corpuz, h3{
+	color: #3498db;
+}
+#footerresume{
+	padding: 5%;
+	background-color: #3498db;
+	color: #ffffff;
+}
